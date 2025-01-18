@@ -1,0 +1,12 @@
+Class Name,Accuracy
+,95.71%
+bleeding,93.76%
+connected_crack,94.31%
+corrugation_shoving,99.92%
+depression_rutting,98.52%
+isolated_crack,81.29%
+manhole,98.99%
+patch,80.83%
+pothole,87.45%
+raveling,91.04%
+sidewalk_shoulder,96.65%
